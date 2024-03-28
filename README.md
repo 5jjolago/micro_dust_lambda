@@ -1,1 +1,1 @@
-# micro_dust_lambda
+## 실시간 동적 데이터(대기오염)를 가져오는 lambda 함수 코드입니다.
